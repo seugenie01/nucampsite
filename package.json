@@ -1,0 +1,19 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "A fictional camp site",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
